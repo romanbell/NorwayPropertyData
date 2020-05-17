@@ -1,0 +1,3 @@
+Norway government boundaries from shapefiles
+
+City outlines were created using a rough outline of city jurisdictions
